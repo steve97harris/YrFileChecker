@@ -1,0 +1,5 @@
+<settings>
+  <ContentMatrixPath>C:\YR_Software\Project\Content\ContentMatrix.csv</ContentMatrixPath>
+  <ContentFolderPath>C:\YR_Software\Project\Content</ContentFolderPath>
+  <FileNameHeader>FileName</FileNameHeader>
+</settings>
